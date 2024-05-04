@@ -1,8 +1,8 @@
-# HauserMetall-Website
+# Reunion - Graduates Overview
 
 ## About
 
-This is the future version of the hauser metall website.
+This is a small app to give an overview over the current state of graduates. Can be used before/during/after a reunion.
 
 ## Getting Started
 
